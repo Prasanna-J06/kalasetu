@@ -1,0 +1,8 @@
+{
+  "name": "Copy of KalaSetu",
+  "description": "A mobile-first digital marketplace connecting tribal artisans with global buyers, featuring voice-assisted product listing and cultural storytelling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
